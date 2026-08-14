@@ -37,6 +37,7 @@ Step 4: Now, Node 2 at the top of the stack, so visit node 2 and pop it from the
  Visit node 2 and put its unvisited adjacent nodes (3, 4) into the stack
 
 Step 5: Now, Node 4 at the top of the stack, so visit node 4 and pop it from the stack and put all of its adjacent nodes which are not visited in the stack.
+
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/20b76a05-5668-4da5-8189-e10fb1bb7238)
 
  Visit node 4
